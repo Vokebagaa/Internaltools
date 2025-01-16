@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Special Handling Notes Notes for CP Wavix 1.0
+// @name         Special Handling Notes Notes for CP Wavix
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  https://didlogic.atlassian.net/browse/SUP-39

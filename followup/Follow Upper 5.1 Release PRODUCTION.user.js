@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Follow Upper 5.1 Release PRODUCTION
+// @name         Follow Upper
 // @namespace    http://tampermonkey.net/
 // @version      4.0
 // @description  Can collect tickets, can start and end follow up, Next button, Back button, current ticket number, and handles reply waiting

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Special Notes on the Support Portal REALEASE 2
+// @name         Special Notes on the Support Portal
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Fetches and displays special handling notes for tickets

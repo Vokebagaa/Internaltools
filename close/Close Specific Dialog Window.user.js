@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  https://didlogic.atlassian.net/browse/SUP-46
+// @updateURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/close/Close%20Specific%20Dialog%20Window.user.js
+// @downloadURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/close/Close%20Specific%20Dialog%20Window.user.js
 // @author       Asset Agabekov
 // @match        https://support.didlogic.com/*
 // @grant        none

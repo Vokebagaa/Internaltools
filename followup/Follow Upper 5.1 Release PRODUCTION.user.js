@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.0
 // @description  Can collect tickets, can start and end follow up, Next button, Back button, current ticket number, and handles reply waiting
+// @updateURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/followup/Follow%20Upper%205.1%20Release%20PRODUCTION.user.js
+// @downloadURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/followup/Follow%20Upper%205.1%20Release%20PRODUCTION.user.js
 // @author       Aset Agabekov
 // @match        *https://support.didlogic.com/admin/carrier_tickets*
 // @match        *https://support.didlogic.com/tickets/*

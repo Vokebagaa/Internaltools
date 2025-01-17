@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  https://didlogic.atlassian.net/browse/SUP-39
+// @updateURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/shacp/Special%20Handling%20Notes%20Notes%20for%20CP%20Wavix%201.0.user.js
+// @downloadURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/shacp/Special%20Handling%20Notes%20Notes%20for%20CP%20Wavix%201.0.user.js
 // @author       You
 // @match        *https://cp.wavix.com/*
 // @grant        GM_xmlhttpRequest

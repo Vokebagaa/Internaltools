@@ -3,7 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Fetches and displays special handling notes for tickets
-// @author       You
+// @updateURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/shaportal/Special%20Notes%20on%20the%20Support%20Portal%20REALEASE%202.user.js
+// @downloadURL https://github.com/Vokebagaa/Internaltools/raw/refs/heads/main/shaportal/Special%20Notes%20on%20the%20Support%20Portal%20REALEASE%202.user.js
+// @author       Asset Agabekov
 // @match        https://support.didlogic.com
 // @match        https://support.didlogic.com/tickets/*
 // @grant        GM_xmlhttpRequest
